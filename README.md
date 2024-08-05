@@ -1,0 +1,2 @@
+# react_prac_related_size
+複数のコンポーネントを管理するコンポーネントがあるときの、管理方法のpractice
